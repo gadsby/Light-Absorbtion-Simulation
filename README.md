@@ -4,4 +4,4 @@ Members:
 * Reily Blackner
 * Oliver Gadsby
 
-We will simulate light.
+We will simulate light and leaves.
